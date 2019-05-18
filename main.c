@@ -3,6 +3,7 @@ pseudo code
 Initial Function()
 {
   //Sample Code
+  Hello 
 }
 
 Initial Function2()
