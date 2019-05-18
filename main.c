@@ -8,6 +8,7 @@ Initial Function()
 Initial Function2()
 {
  //Sample Code
+ hi
 }
 SecurityPatch(){
 //add Security patch
